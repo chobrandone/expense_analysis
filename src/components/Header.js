@@ -3,6 +3,6 @@ import React from 'react';
 export const Header = () => {
     return ( <
 
-        h2 > hello tracker < /h2>
+        h2 > EXPENSE ANALYZER < /h2>
     )
 }
